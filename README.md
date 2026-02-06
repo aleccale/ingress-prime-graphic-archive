@@ -4,7 +4,8 @@
 
 A small fan archive of reconstructed graphic elements from the Ingress Prime scanner and fanmade graphics. No UI library, no app clone, just clean assets that can be used in websites, print, avatars, and other fan projects.
 
-![Ingress Prime archive logo - image generated with nano banana](https://github.com/user-attachments/assets/3addde3c-8824-4599-b5a7-b4de2da7be32)
+<img src="https://github.com/user-attachments/assets/3addde3c-8824-4599-b5a7-b4de2da7be32" width="400" />
+<br><sub>image generated with nano banana</sub>
 
 *image generated with nano banana*
 
