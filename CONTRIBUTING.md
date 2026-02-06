@@ -17,4 +17,4 @@ This is a small, casual community project made by Agent YellowLightning. Contrib
 - Optional extras: `AI`, `EPS` or `PNG`.
 
 ## Legal
-See `README.md` for the legal and licensing notes. Please only contribute work you created.
+See `README.md` and `LICENSE` for the legal and licensing notes. Please only contribute work you created.
