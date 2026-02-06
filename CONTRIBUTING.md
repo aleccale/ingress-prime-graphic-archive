@@ -9,7 +9,7 @@ This is a small, casual community project made by Agent YellowLightning. Contrib
 ## How Contributions Work
 - Please use **Issues** for requests, missing assets, or questions.
 - Use **Pull Requests** for actual contributions.
-- you can use the Issue and PR Templates in [.github folder](/.github)
+- You can use the Issue and PR Templates in [.github folder](/.github).
 
 ## File Standards
 - Filenames: `snake_case`.
